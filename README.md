@@ -33,11 +33,12 @@ This project allows users to search for the current weather of any city. It show
 
 > Note: You may need your own API key from [OpenWeatherMap](https://openweathermap.org/) if not already included.
 
-## LIVE DEMO
-https://dhiraj-student.github.io/weather-app/
+## What I learned
 
 - How to fetch data from external APIs using JavaScript  
 - DOM manipulation and event handling  
 - Working with JSON responses  
 - Creating responsive layouts using CSS  
 
+## Live Demo
+https://dhiraj-student.github.io/weather-app/
